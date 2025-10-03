@@ -136,6 +136,7 @@
     <ClInclude Include="Pet.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="Point3D.h" />
+    <ClInclude Include="Templates.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
